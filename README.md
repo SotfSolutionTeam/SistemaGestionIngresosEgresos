@@ -1,1 +1,1 @@
-# SistemaGestionIngresosEgresos
+# Software solution team
